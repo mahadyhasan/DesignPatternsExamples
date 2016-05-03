@@ -3,5 +3,5 @@ package creational.abstractfactory;
 /**
  * Created by mahady on 03/05/16.
  */
-public class AmexGoldCreditCard {
+public class AmexGoldCreditCard extends CreditCard {
 }
